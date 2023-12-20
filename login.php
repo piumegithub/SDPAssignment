@@ -29,6 +29,10 @@
                 $_SESSION['username']= $r['username'];
                 $_SESSION['loggedin'] = true;
                 header("Location: welcome.php");
+
+               
+   
+
             }
         }  
         else{  

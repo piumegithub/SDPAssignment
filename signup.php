@@ -70,7 +70,7 @@
 </head>
   <body>
     <div id="form">
-        <h1 id="heading">SignUp Form</h1><br>
+        <h1 id="heading">Registration Form</h1><br>
         <form name="form" action="signup.php" method="POST">
             <label>Enter Username: </label>
             <input type="text" id="user" name="user" required><br><br>
@@ -82,7 +82,7 @@
             <input type="password" id="pass" name="pass" required><br><br>
             <label>Confirm Password: </label>
             <input type="password" id="cpass" name="cpass" required><br><br>
-            <input type="submit" id="btn" value="SignUp" name = "submit"/>
+            <input type="submit" id="btn" value="Register" name = "submit"/>
         </form>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>

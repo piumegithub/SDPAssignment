@@ -17,7 +17,7 @@
 </head>
   <body>
   <?php
-    include "navbar.php";
+    include "registernavbar.php";
     ?>
     <br><br><br>
     

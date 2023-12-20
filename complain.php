@@ -15,7 +15,7 @@
 <body>
 
 <?php 
-      include "navbar.php";
+      include "registernavbar.php";
       include('marquee.php');
     ?>
 <!-- <h3 class="text-center">Willdlife Forestry And Enviromental Crime Activity Complaining System</h3>
