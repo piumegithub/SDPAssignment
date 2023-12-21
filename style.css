@@ -13,9 +13,11 @@ body {
 #indexImage {
     object-fit: cover;
     position: absolute;
-    /* width: 75%;  */
+    width: 55%; 
     height: 75%;
     top: 130px;
+    margin-top: 60px;
+    filter: blur(1px);
 }
 
 #form {
