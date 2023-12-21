@@ -5,12 +5,12 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <!-- <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="index.php">Home</a>
           
         </li>
-        <li>
+        <!-- <li>
         <a class="nav-link active" aria-current="page" href="complain.php">Complainer</a>
         </li>
         <li>
@@ -18,8 +18,8 @@
         </li>
         <li>
         <a class="nav-link active" aria-current="page" href="#">Admin</a>
-        </li>
-      </ul> -->
+        </li> -->
+      </ul>
       <form class="d-flex">
         <a button class="btn btn-outline-success mx-2" type="submit" href="signup.php">Registration</a>
         <a button class="btn btn-outline-primary mx-2" type="submit" href="login.php">Login</a>

@@ -43,6 +43,7 @@ body{
     top: 50%;
     border-radius: 10px;
     box-shadow: 20px 30px 25px rgba(0,0,0,0.15);
+    margin-top: 60px;
 
 }
 h1{

@@ -60,8 +60,8 @@
     </head>
     <body>
         <br><br>
-        <div id="form">
-            <h1 id="heading">Login Form</h1>
+        <div id="login-form">
+            <h1 id="login-heading">Login Form</h1>
             <form name="form" action="login.php" method="POST" required>
                 <label>Enter Username/Email: </label>
                 <input type="text" id="user" name="user"></br></br>
