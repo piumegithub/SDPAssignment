@@ -10,10 +10,10 @@
           <a class="nav-link active" aria-current="page" href="index.php">Home</a>
           
         </li>
-        <!-- <li>
-        <a class="nav-link active" aria-current="page" href="complain.php">Complainer</a>
-        </li>
         <li>
+        <a class="nav-link active" aria-current="page" href="adminpanel.php">Admin</a>
+        </li>
+        <!-- <li>
         <a class="nav-link active" aria-current="page" href="officer.html">Officer</a>
         </li>
         <li>
